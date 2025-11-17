@@ -1,6 +1,5 @@
 # CVM-Analysis-Project
 A CVM project analyzing customer value with RFM segmentation, campaign lift, and churn prediction.
-# CVM Analysis & Campaign Lift Project
 
 This project is a complete CVM (Customer Value Management) analysis for a synthetic banking dataset.
 
