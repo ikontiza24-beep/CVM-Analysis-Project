@@ -10,7 +10,7 @@ This project is a complete CVM (Customer Value Management) analysis for a synthe
 4. Churn Prediction:Build a baseline model to identify churn drivers.
 
 ## How to View
-(generate_synthetic_data.py):The Python script used to create the realistic, 3-table dataset.
+(generate_synthetic_data.py):The Python script used to create 3-table dataset.
 
 (CVM Analysis Project.ipynb):The main Jupyter Notebook with all my analysis, charts, and recommendations.
 
