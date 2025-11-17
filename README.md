@@ -11,5 +11,7 @@ This project is a complete CVM (Customer Value Management) analysis for a synthe
 
 ## How to View
 (generate_synthetic_data.py):The Python script used to create the realistic, 3-table dataset.
-(CVM Analysis Project.ipynb):The main Jupyter Notebook with all my analysis, charts, and recommendations. (Make sure to rename this link to match your file!)
+
+(CVM Analysis Project.ipynb):The main Jupyter Notebook with all my analysis, charts, and recommendations.
+
 data/: The folder containing the raw CSV files.
